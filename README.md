@@ -1,2 +1,1 @@
-# pilar 🏳️‍🌈
-LGBTIQA+ space for cybersecurity peeps
+pilar 🏳️‍🌈 LGBTIQA+ space for cybersecurity peeps

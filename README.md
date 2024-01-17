@@ -7,6 +7,8 @@ Before setting up Pilar I had one channel in a slack that was very quiet, a few 
 I wanted a safe, supportive place for peeps to post selfies, chat about work stuff and share cool projects. The safe place to post selfies was a big motivator. I saw peeps posting selfies online and quite often there was little reaction. I wanted them to know that they looked amazing. I didn’t want them to have to defend their choices but rather be acknowledged for the fabulous steps they were making and to know they looked beautiful and handsome. There can be a lot of hate towards peeps transitioning and I really wanted to provide a safe, supportive place for sharing that.
 
 
+https://github.com/thequietlife/pilar/blob/bbb2b7f6195d8949aa18763e31d5f7f13a795efe/images/starting%20pilar.jpeg
+
 ## 16 month reflection on starting pilar
 
 ### Sep 26 2022

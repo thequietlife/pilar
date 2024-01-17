@@ -1,5 +1,3 @@
-### pilar
-
 ### Why I started pilar
 
 I wanted one spot to hang out with similar peeps - LGBTIQA+ peeps in cybersecurity.

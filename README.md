@@ -1,4 +1,4 @@
-### 🏳️‍⚧️ 🏳️‍🌈 Why I started pilar
+## 🏳️‍⚧️ 🏳️‍🌈 Why I started pilar
 
 I wanted one spot to hang out with similar peeps - LGBTIQA+ peeps in cybersecurity.
 
@@ -6,13 +6,13 @@ Before setting up Pilar I had one channel in a slack that was very quiet, a few 
 
 I wanted a safe, supportive place for peeps to post selfies, chat about work stuff and share cool projects. The safe place to post selfies was a big motivator. I saw peeps posting selfies online and quite often there was little reaction. I wanted them to know that they looked amazing. I didn’t want them to have to defend their choices but rather be acknowledged for the fabulous steps they were making and to know they looked beautiful and handsome. There can be a lot of hate towards peeps transitioning and I really wanted to provide a safe, supportive place for sharing that.
 
-
-https://github.com/thequietlife/pilar/blob/bbb2b7f6195d8949aa18763e31d5f7f13a795efe/images/starting%20pilar.jpeg
-
 ## 16 month reflection on starting pilar
 
 ### Sep 26 2022
 With a new puppy on my lap I started pilar. I reached out to a few peeps I knew and they were keen to join.
+
+<img src="https://github.com/thequietlife/pilar/blob/bbb2b7f6195d8949aa18763e31d5f7f13a795efe/images/starting%20pilar.jpeg"
+alt="person working on laptop with two dogs nearby" width="200"/>
 
 ### 17 Jan 2023
 What is grown is so much more. We love sharing pics of our pets and funny memes. We share gorgeous selfies but also ask questions about career stuff, coding problems. We are a bunch of super smart, funny peeps. We’ve found out how similar a lot of us are - introverted, ADHD, trans, a bit damaged from family stuff, working with homo/trans phobic people.

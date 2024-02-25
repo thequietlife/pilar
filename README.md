@@ -22,5 +22,6 @@ At the beginning the discord channel was pretty quiet and it was sometimes trick
 Sixteen months on, it’s great to open up pilar and see people asking for tech help and getting detailed advice. 
 We have organised meetups to share cool projects we are working on. But also in person events in Canberra and Brisbane. It feels really cool to see so much engagement happening organically.
 
-
+### 25 Feb 2024
+It's still a buzz to log on and see peeps posting selfies, chatting, answering tech questions in depth. I have made two of the OG members admins. I feel they can drive it forward. ✨
 

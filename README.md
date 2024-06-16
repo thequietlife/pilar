@@ -23,5 +23,5 @@ At the beginning the discord channel was pretty quiet and it was sometimes trick
 Sixteen months on, it’s great to open up pilar and see people asking for tech help and getting detailed advice. 
 We have organised meetups to share cool projects we are working on. But also in person events in Canberra and Brisbane. It feels really cool to see so much engagement happening organically. It's still a buzz to log on and see peeps posting selfies, chatting, answering tech questions in depth. ✨
 
-### Jun 2024
-xxx
+### Mar 2024
+One of the reasons I went to [CrikeyCon](https://crikeycon.com/) in March was to meet up with some of the pilar peeps. The CrikeyCon organisers even sponsored a lunch for all the pilar and LGBTIQA+ attendees. It was pretty cool to have a super large table at lunch and get to meet peeps during the lunch break.

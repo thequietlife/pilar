@@ -25,3 +25,6 @@ We have organised meetups to share cool projects we are working on. But also in 
 
 ### Mar 2024
 One of the reasons I went to [CrikeyCon](https://crikeycon.com/) in March was to meet up with some of the pilar peeps. The CrikeyCon organisers even sponsored a lunch for all the pilar and LGBTIQA+ attendees. It was pretty cool to have a super large table at lunch and get to meet peeps during the lunch break.
+
+### Feb 2025
+With all the craptastic things happening in the US it's been nice to hang out and chat with others who are also freaked out. 
